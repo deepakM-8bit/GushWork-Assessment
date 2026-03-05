@@ -42,11 +42,11 @@ https://github.com/deepakM-8bit/gushwork-assessment
 * Hero Section
 * Trust Bar
 * Features Section
+* FAQ Accordion
 * Applications (Horizontal Scroll Cards)
 * Manufacturing Process Tabs
 * Testimonials (Responsive Scroll Cards)
 * Portfolio Section
-* FAQ Accordion
 * Contact / CTA Section
 * Footer
 
@@ -92,4 +92,4 @@ Steps used:
 ## Author
 
 Deepak
-Frontend Developer
+Fullstack Developer
