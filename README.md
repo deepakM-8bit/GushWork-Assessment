@@ -9,7 +9,7 @@ The project focuses on **clean UI implementation, responsive design, and compone
 ## Live Demo
 
 Live Website:
-https://deepakM-8bit.github.io/gushwork-assessment/
+https://deepakm-8bit.github.io/GushWork-Assessment/
 
 Repository:
 https://github.com/deepakM-8bit/gushwork-assessment
